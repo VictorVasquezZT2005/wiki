@@ -70,7 +70,6 @@ soc: Mediatek MT8781 Helio G99
 storage: 128/256 GB
 tree: android_device_samsung_a245m
 type: phone
-uses_recovery_tar: true
 vendor: Samsung
 vendor_short: samsung
 versions:
