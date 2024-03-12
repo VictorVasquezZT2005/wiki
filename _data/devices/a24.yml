@@ -32,7 +32,7 @@ dimensions:
   width: 75.1 mm (2.96 in)
 download_boot: With the device powered off, hold <kbd>Volume Up</kbd> + <kbd>Volume
   Down</kbd> and connect USB cable to PC.
-firmware_update: firmware_update_samsung_sm7125
+firmware_update: firmware_update_samsung_sma245m
 gpu:  Mali-G57 MC2 
 image: a245m.png
 install_method: odin
